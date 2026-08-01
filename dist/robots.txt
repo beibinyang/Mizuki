@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /posts/
+
+Sitemap: https://mizuku.cccccccc.qzz.io/sitemap-index.xml
